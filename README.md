@@ -2,7 +2,7 @@
 
 Quickly show the php-rendertime of your Kirby page in the code, on the page or in the browser-tab.
 
-*- update -* There is an excellent fork of this plug-in, which makes my version deprecated.
+**update** There is an excellent fork of this plug-in, which makes my version deprecated.
 
 https://gist.github.com/fenixkim/247464fbb18eb23625fa
 
